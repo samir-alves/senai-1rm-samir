@@ -1,0 +1,4 @@
+num1 = float(input(' Informe o primeiro valor:'))
+num2 = float(input(' Informe o segundo valor:'))
+batatinha = num1 + num2
+print (batatinha)

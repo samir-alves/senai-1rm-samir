@@ -1,0 +1,5 @@
+print ("--------------------inicio-----------------")
+aluno = input ("Informe seu nome: ")
+curso  = input ("Informe seu curso: ")
+print ("ola: {}! voce esta matriculado no curso de : {} " .format(aluno,curso) )
+print ("--------------------Fim-----------------")
